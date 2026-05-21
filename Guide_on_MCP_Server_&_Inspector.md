@@ -156,6 +156,26 @@ Once you’ve verified your server, install it to **Claude Desktop**:
 mcp install main.py --name "My MCP Server"
 ```
 
+Check Claude Desktop JSON or Cursor MCP Add MCP:
+
+```bash
+"mcpServers": {
+    "My MCP Server": {
+      "command": "/opt/homebrew/bin/uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "--with",
+        "yfinance",
+        "mcp",
+        "run",
+        "/Users/sachintripathi/Documents/Py_files/Daimler_MCP_A2A/mcp-server/main.py"
+      ]
+    }
+  }
+```
+
 ---
 
 ## 🧭 Summary
