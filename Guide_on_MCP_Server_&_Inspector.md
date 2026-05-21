@@ -159,7 +159,8 @@ mcp install main.py --name "My MCP Server"
 Check Claude Desktop JSON or Cursor MCP Add MCP:
 
 ```bash
-"mcpServers": {
+{
+  "mcpServers": {
     "My MCP Server": {
       "command": "/opt/homebrew/bin/uv",
       "args": [
@@ -173,7 +174,8 @@ Check Claude Desktop JSON or Cursor MCP Add MCP:
         "/Users/sachintripathi/Documents/Py_files/Daimler_MCP_A2A/mcp-server/main.py"
       ]
     }
-  }
+  } 
+}
 ```
 
 ---
