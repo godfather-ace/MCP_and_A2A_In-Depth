@@ -50,7 +50,7 @@ Choose a real-world or practical use case. Examples (you may define your own):
 
 ### 3. Technical Requirements
 
-- **Language**: Python or JavaScript/TypeScript (choose one)
+- **Language**: Python
 - **MCP SDK**: Use the official Anthropic MCP SDK or a compatible library
 - **Agent model**: Use any LLM API 
 - **Running locally**: The solution must run end-to-end on a local machine
