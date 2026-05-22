@@ -1,7 +1,5 @@
 # 🤝 Demo 1 — Agent-to-Agent (A2A) Protocol with CrewAI
 
-> **MLDS 2026 AgenticAI Workshop | Workshop 2: Agentic Protocols**
-
 This demo illustrates the **Agent-to-Agent (A2A) Protocol** in action — a lightweight HTTP-based standard that allows independent AI agents to discover each other, communicate, and collaborate without being coupled to the same framework or codebase.
 
 ---
@@ -89,8 +87,7 @@ dem1/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/godfather-ace/MLDS-2026-AgenticAI-Workshop.git
-cd MLDS-2026-AgenticAI-Workshop/workshop-2-protocols/A2A/dem1
+git clone https://github.com/godfather-ace/MCP_and_A2A_In-Depth.git
 ```
 
 ### 2. Install Dependencies
