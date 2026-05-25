@@ -114,8 +114,7 @@ dem2/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/godfather-ace/MLDS-2026-AgenticAI-Workshop.git
-cd MLDS-2026-AgenticAI-Workshop/workshop-2-protocols/A2A/dem2
+git clone https://github.com/godfather-ace/MCP_and_A2A_In-Depth.git
 ```
 
 ### 2. Install Dependencies
